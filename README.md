@@ -1,2 +1,3 @@
-# sap-incident-finder
-Chrome extension to search for incidents by their number in SAP ONE Support
+Use this extension to quickly search SAP ONE Support for incidents.
+
+You can install it from [Chrome Web Store](https://chrome.google.com/webstore/detail/sap-incident-finder/mmhbpmgkbpfciifapleikfkphcmglifa)
